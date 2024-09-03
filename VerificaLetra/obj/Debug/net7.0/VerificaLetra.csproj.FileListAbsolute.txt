@@ -1,0 +1,14 @@
+C:\Users\henri\CSProjects\VerificaLetra\bin\Debug\net7.0\VerificaLetra.exe
+C:\Users\henri\CSProjects\VerificaLetra\bin\Debug\net7.0\VerificaLetra.deps.json
+C:\Users\henri\CSProjects\VerificaLetra\bin\Debug\net7.0\VerificaLetra.runtimeconfig.json
+C:\Users\henri\CSProjects\VerificaLetra\bin\Debug\net7.0\VerificaLetra.dll
+C:\Users\henri\CSProjects\VerificaLetra\bin\Debug\net7.0\VerificaLetra.pdb
+C:\Users\henri\CSProjects\VerificaLetra\obj\Debug\net7.0\VerificaLetra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\CSProjects\VerificaLetra\obj\Debug\net7.0\VerificaLetra.AssemblyInfoInputs.cache
+C:\Users\henri\CSProjects\VerificaLetra\obj\Debug\net7.0\VerificaLetra.AssemblyInfo.cs
+C:\Users\henri\CSProjects\VerificaLetra\obj\Debug\net7.0\VerificaLetra.csproj.CoreCompileInputs.cache
+C:\Users\henri\CSProjects\VerificaLetra\obj\Debug\net7.0\VerificaLetra.dll
+C:\Users\henri\CSProjects\VerificaLetra\obj\Debug\net7.0\refint\VerificaLetra.dll
+C:\Users\henri\CSProjects\VerificaLetra\obj\Debug\net7.0\VerificaLetra.pdb
+C:\Users\henri\CSProjects\VerificaLetra\obj\Debug\net7.0\VerificaLetra.genruntimeconfig.cache
+C:\Users\henri\CSProjects\VerificaLetra\obj\Debug\net7.0\ref\VerificaLetra.dll
